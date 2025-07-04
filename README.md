@@ -34,6 +34,6 @@
 ---
 
 ### ⚡ **Outros links interessantes**:
-- 🔗 [Portfólio Pessoal](https://seuportifolio.com) *(substitua com seu link real)*  
-- 📝 [Blog de Desenvolvimento](https://seublog.com) *(substitua com seu link real)*
+- 🔗 [Portfólio Pessoal](https://seuportifolio.com)
+- 📝 [Blog de Desenvolvimento](https://seublog.com)
 
