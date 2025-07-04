@@ -1,4 +1,4 @@
-# Olá, eu sou a Gabriella 👋
+# Olá, eu sou a Gabriel 👋
 
 💻 Aprendendo a programar  
 🚀 Em constante evolução como dev  
